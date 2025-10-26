@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        53989
+    ],
+    "annotation_range": [
+        6,
+        53905
+    ],
+    "tracking_frames": 53990,
+    "annotation_frames": 53900,
+    "overlap_frames": 53900,
+    "tracking_utilization_ratio": 0.998333,
+    "annotation_coverage_ratio": 1.0,
+    "status": "aligned",
+    "action": "none",
+    "final_range": [
+        6,
+        53905
+    ],
+    "folder": "DeliriousFly",
+    "file": "1649549863.parquet"
+}

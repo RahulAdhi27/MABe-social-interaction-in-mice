@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        4950,
+        22093
+    ],
+    "annotation_range": [
+        4950,
+        21925
+    ],
+    "tracking_frames": 17144,
+    "annotation_frames": 16976,
+    "overlap_frames": 16976,
+    "tracking_utilization_ratio": 0.990201,
+    "annotation_coverage_ratio": 1.0,
+    "status": "aligned",
+    "action": "none",
+    "final_range": [
+        4950,
+        21925
+    ],
+    "folder": "InvincibleJellyfish",
+    "file": "193645959.parquet"
+}

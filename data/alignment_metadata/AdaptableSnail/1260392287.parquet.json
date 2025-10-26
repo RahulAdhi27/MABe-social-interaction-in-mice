@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        53917
+    ],
+    "annotation_range": [
+        199,
+        46370
+    ],
+    "tracking_frames": 53918,
+    "annotation_frames": 46172,
+    "overlap_frames": 46172,
+    "tracking_utilization_ratio": 0.856337,
+    "annotation_coverage_ratio": 1.0,
+    "status": "manual_review",
+    "action": "check_alignment",
+    "final_range": [
+        199,
+        46370
+    ],
+    "folder": "AdaptableSnail",
+    "file": "1260392287.parquet"
+}

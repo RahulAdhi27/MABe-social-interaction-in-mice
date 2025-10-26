@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        1147,
+        35926
+    ],
+    "annotation_range": [
+        1229,
+        35739
+    ],
+    "tracking_frames": 34780,
+    "annotation_frames": 34511,
+    "overlap_frames": 34511,
+    "tracking_utilization_ratio": 0.992266,
+    "annotation_coverage_ratio": 1.0,
+    "status": "aligned",
+    "action": "none",
+    "final_range": [
+        1229,
+        35739
+    ],
+    "folder": "GroovyShrew",
+    "file": "1205169652.parquet"
+}

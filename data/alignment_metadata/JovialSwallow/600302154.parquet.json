@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        8999
+    ],
+    "annotation_range": [
+        29,
+        8991
+    ],
+    "tracking_frames": 9000,
+    "annotation_frames": 8963,
+    "overlap_frames": 8963,
+    "tracking_utilization_ratio": 0.995889,
+    "annotation_coverage_ratio": 1.0,
+    "status": "aligned",
+    "action": "none",
+    "final_range": [
+        29,
+        8991
+    ],
+    "folder": "JovialSwallow",
+    "file": "600302154.parquet"
+}

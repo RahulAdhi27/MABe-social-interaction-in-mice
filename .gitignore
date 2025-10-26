@@ -7,5 +7,7 @@ MABe-mouse-behavior-detection/
 __pycache__/
 .ipynb_checkpoints/
 
+data/alignment_metadata/
+*.json
 .env
 venv/

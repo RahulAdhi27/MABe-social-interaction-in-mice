@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        101,
+        35556
+    ],
+    "annotation_range": [
+        101,
+        35555
+    ],
+    "tracking_frames": 35456,
+    "annotation_frames": 35455,
+    "overlap_frames": 35455,
+    "tracking_utilization_ratio": 0.999972,
+    "annotation_coverage_ratio": 1.0,
+    "status": "aligned",
+    "action": "none",
+    "final_range": [
+        101,
+        35555
+    ],
+    "folder": "NiftyGoldfinch",
+    "file": "960582355.parquet"
+}

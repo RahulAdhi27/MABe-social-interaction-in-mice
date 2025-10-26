@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        3646
+    ],
+    "annotation_range": [
+        1,
+        3646
+    ],
+    "tracking_frames": 3647,
+    "annotation_frames": 3646,
+    "overlap_frames": 3646,
+    "tracking_utilization_ratio": 0.999726,
+    "annotation_coverage_ratio": 1.0,
+    "status": "aligned",
+    "action": "none",
+    "final_range": [
+        1,
+        3646
+    ],
+    "folder": "CalMS21_supplemental",
+    "file": "1356723283.parquet"
+}

@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        169,
+        15236
+    ],
+    "annotation_range": [
+        497,
+        15018
+    ],
+    "tracking_frames": 15068,
+    "annotation_frames": 14522,
+    "overlap_frames": 14522,
+    "tracking_utilization_ratio": 0.963764,
+    "annotation_coverage_ratio": 1.0,
+    "status": "auto_trim",
+    "action": "trim_to_intersection",
+    "final_range": [
+        497,
+        15018
+    ],
+    "folder": "ReflectiveManatee",
+    "file": "920161729.parquet"
+}
