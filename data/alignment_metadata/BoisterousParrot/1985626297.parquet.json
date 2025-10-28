@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        594027
+    ],
+    "annotation_range": [
+        708,
+        279503
+    ],
+    "tracking_frames": 594028,
+    "annotation_frames": 278796,
+    "overlap_frames": 278796,
+    "tracking_utilization_ratio": 0.469331,
+    "annotation_coverage_ratio": 1.0,
+    "status": "manual_review",
+    "action": "check_alignment",
+    "final_range": [
+        708,
+        279503
+    ],
+    "folder": "BoisterousParrot",
+    "file": "1985626297.parquet"
+}

@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        14997
+    ],
+    "annotation_range": [
+        19,
+        14771
+    ],
+    "tracking_frames": 14998,
+    "annotation_frames": 14753,
+    "overlap_frames": 14753,
+    "tracking_utilization_ratio": 0.983664,
+    "annotation_coverage_ratio": 1.0,
+    "status": "auto_trim",
+    "action": "trim_to_intersection",
+    "final_range": [
+        19,
+        14771
+    ],
+    "folder": "UppityFerret",
+    "file": "1197493895.parquet"
+}

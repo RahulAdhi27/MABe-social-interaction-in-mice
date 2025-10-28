@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        8999
+    ],
+    "annotation_range": [
+        39,
+        8813
+    ],
+    "tracking_frames": 9000,
+    "annotation_frames": 8775,
+    "overlap_frames": 8775,
+    "tracking_utilization_ratio": 0.975,
+    "annotation_coverage_ratio": 1.0,
+    "status": "auto_trim",
+    "action": "trim_to_intersection",
+    "final_range": [
+        39,
+        8813
+    ],
+    "folder": "JovialSwallow",
+    "file": "2062182880.parquet"
+}

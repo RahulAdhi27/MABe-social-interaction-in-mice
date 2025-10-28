@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        1600,
+        55811
+    ],
+    "annotation_range": [
+        3329,
+        53459
+    ],
+    "tracking_frames": 54212,
+    "annotation_frames": 50131,
+    "overlap_frames": 50131,
+    "tracking_utilization_ratio": 0.924721,
+    "annotation_coverage_ratio": 1.0,
+    "status": "manual_review",
+    "action": "check_alignment",
+    "final_range": [
+        3329,
+        53459
+    ],
+    "folder": "ElegantMink",
+    "file": "302673140.parquet"
+}

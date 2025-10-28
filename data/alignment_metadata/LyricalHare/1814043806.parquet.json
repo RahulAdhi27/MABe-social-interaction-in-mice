@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        37183
+    ],
+    "annotation_range": [
+        896,
+        35659
+    ],
+    "tracking_frames": 37184,
+    "annotation_frames": 34764,
+    "overlap_frames": 34764,
+    "tracking_utilization_ratio": 0.934918,
+    "annotation_coverage_ratio": 1.0,
+    "status": "manual_review",
+    "action": "check_alignment",
+    "final_range": [
+        896,
+        35659
+    ],
+    "folder": "LyricalHare",
+    "file": "1814043806.parquet"
+}

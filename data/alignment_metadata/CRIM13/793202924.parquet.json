@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        1151,
+        11594
+    ],
+    "annotation_range": [
+        1151,
+        11250
+    ],
+    "tracking_frames": 10444,
+    "annotation_frames": 10100,
+    "overlap_frames": 10100,
+    "tracking_utilization_ratio": 0.967062,
+    "annotation_coverage_ratio": 1.0,
+    "status": "auto_trim",
+    "action": "trim_to_intersection",
+    "final_range": [
+        1151,
+        11250
+    ],
+    "folder": "CRIM13",
+    "file": "793202924.parquet"
+}

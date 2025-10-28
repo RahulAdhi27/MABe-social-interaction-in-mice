@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        26999
+    ],
+    "annotation_range": [
+        4653,
+        26217
+    ],
+    "tracking_frames": 27000,
+    "annotation_frames": 21565,
+    "overlap_frames": 21565,
+    "tracking_utilization_ratio": 0.798704,
+    "annotation_coverage_ratio": 1.0,
+    "status": "manual_review",
+    "action": "check_alignment",
+    "final_range": [
+        4653,
+        26217
+    ],
+    "folder": "PleasantMeerkat",
+    "file": "372539857.parquet"
+}

@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        17917
+    ],
+    "annotation_range": [
+        21,
+        17883
+    ],
+    "tracking_frames": 17918,
+    "annotation_frames": 17863,
+    "overlap_frames": 17863,
+    "tracking_utilization_ratio": 0.99693,
+    "annotation_coverage_ratio": 1.0,
+    "status": "aligned",
+    "action": "none",
+    "final_range": [
+        21,
+        17883
+    ],
+    "folder": "CalMS21_task2",
+    "file": "2003281752.parquet"
+}

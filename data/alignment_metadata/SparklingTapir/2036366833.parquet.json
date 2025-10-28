@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        18001
+    ],
+    "annotation_range": [
+        91,
+        17092
+    ],
+    "tracking_frames": 18002,
+    "annotation_frames": 17002,
+    "overlap_frames": 17002,
+    "tracking_utilization_ratio": 0.944451,
+    "annotation_coverage_ratio": 1.0,
+    "status": "manual_review",
+    "action": "check_alignment",
+    "final_range": [
+        91,
+        17092
+    ],
+    "folder": "SparklingTapir",
+    "file": "2036366833.parquet"
+}

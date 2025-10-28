@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        536,
+        18043
+    ],
+    "annotation_range": [
+        569,
+        17931
+    ],
+    "tracking_frames": 17508,
+    "annotation_frames": 17363,
+    "overlap_frames": 17363,
+    "tracking_utilization_ratio": 0.991718,
+    "annotation_coverage_ratio": 1.0,
+    "status": "aligned",
+    "action": "none",
+    "final_range": [
+        569,
+        17931
+    ],
+    "folder": "TranquilPanther",
+    "file": "1831430173.parquet"
+}

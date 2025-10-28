@@ -1,0 +1,23 @@
+{
+    "tracking_range": [
+        0,
+        14999
+    ],
+    "annotation_range": [
+        13,
+        14870
+    ],
+    "tracking_frames": 15000,
+    "annotation_frames": 14858,
+    "overlap_frames": 14858,
+    "tracking_utilization_ratio": 0.990533,
+    "annotation_coverage_ratio": 1.0,
+    "status": "aligned",
+    "action": "none",
+    "final_range": [
+        13,
+        14870
+    ],
+    "folder": "CautiousGiraffe",
+    "file": "1657896715.parquet"
+}
