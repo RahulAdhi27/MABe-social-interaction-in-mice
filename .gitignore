@@ -1,12 +1,27 @@
+# Dataset folder
 MABe-mouse-behavior-detection/
 
+# Temporary or log files
 *.log
 *.tmp
 *.bak
 *.DS_Store
+
+# Python + Jupyter cache
 __pycache__/
 .ipynb_checkpoints/
 
+# JSON alignment metadata
+data/alignment_metadata
 data/alignment_metadata/*.json
+
+# Environment + virtualenvs
 .env
 venv/
+dl_env/
+
+# Kaggle export artifacts
+kaggle_export/
+
+
+.vscode/settings.json
