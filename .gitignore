@@ -23,5 +23,6 @@ dl_env/
 # Kaggle export artifacts
 kaggle_export/
 
+data/features_intermediate/
 
-.vscode/settings.json
+.vscode/settings.jsondata/features_intermediate/
