@@ -1,6 +1,0 @@
-{
-    "python.defaultInterpreterPath": "/home/rahuladhi/Desktop/AI/dl_env/bin/python",
-    "python.venvPath": "/home/rahuladhi/Desktop/AI/",
-    "python.terminal.activateEnvironment": true,
-    "jupyter.jupyterServerType": "local"
-}
